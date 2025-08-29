@@ -1,0 +1,4 @@
+mindsdb_sdk
+pandas
+requests
+langchain
